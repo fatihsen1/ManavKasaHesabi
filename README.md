@@ -1,0 +1,2 @@
+# ManavKasaHesabi
+patika java ödevler
